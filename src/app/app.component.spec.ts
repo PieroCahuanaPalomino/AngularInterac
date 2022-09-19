@@ -29,3 +29,4 @@ describe('AppComponent', () => {
     expect(compiled.querySelector('.content span')?.textContent).toContain('angular-tour-of-heroes app is running!');
   });
 });
+
